@@ -24,6 +24,7 @@ concurrency:
 # Default to bash
 defaults:
   run:
+    working-directory: ./sophiebucker.github.io
     shell: bash
 
 jobs:
