@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Notes on IAN LOAM XYZ</title>
-    <link>https://ianloam.xyz/notes/</link>
-    <description>Recent content in Notes on IAN LOAM XYZ</description>
+    <title>Notes on SOPHIE BUCKER</title>
+    <link>http://localhost:1313/notes/</link>
+    <description>Recent content in Notes on SOPHIE BUCKER</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://ianloam.xyz/notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://ianloam.xyz/notes/mathfoundations/</link>
+      <link>http://localhost:1313/notes/mathfoundations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ianloam.xyz/notes/mathfoundations/</guid>
+      <guid>http://localhost:1313/notes/mathfoundations/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://ianloam.xyz/notes/paradigms/</link>
+      <link>http://localhost:1313/notes/paradigms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ianloam.xyz/notes/paradigms/</guid>
+      <guid>http://localhost:1313/notes/paradigms/</guid>
       <description></description>
     </item>
     <item>
       <title>Autodidacticism and Research</title>
-      <link>https://ianloam.xyz/notes/autodidact/</link>
+      <link>http://localhost:1313/notes/autodidact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ianloam.xyz/notes/autodidact/</guid>
+      <guid>http://localhost:1313/notes/autodidact/</guid>
       <description>&lt;h1 id=&#34;autodidacticism-and-research&#34;&gt;Autodidacticism and Research&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Notes on Algebra</title>
-      <link>https://ianloam.xyz/notes/algebra/</link>
+      <link>http://localhost:1313/notes/algebra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ianloam.xyz/notes/algebra/</guid>
+      <guid>http://localhost:1313/notes/algebra/</guid>
       <description>&lt;h1 id=&#34;notes-on-algebra&#34;&gt;Notes on Algebra&lt;/h1&gt;</description>
     </item>
   </channel>
