@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on IAN LOAM XYZ</title>
-    <link>https://ianloam.xyz/categories/</link>
-    <description>Recent content in Categories on IAN LOAM XYZ</description>
+    <title>Categories on SOPHIE BUCKER</title>
+    <link>https://sophiebucker.com/categories/</link>
+    <description>Recent content in Categories on SOPHIE BUCKER</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://ianloam.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sophiebucker.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
