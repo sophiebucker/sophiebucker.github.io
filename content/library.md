@@ -4,16 +4,27 @@ title: "Library"
 
 {{< section `Fiction` >}}
 ### 2025
-- lucy, jamaica kincaid
-### 2024
-- the master and margarita, mikhail bulgakov
+- Lucy, Jamaica Kincaid
+- I Am the Brother of XX, Fleur Jaeggy
+- The Woman in the Dunes, Kobo Abe
+- Djinns, Fatma Aydemir
+- Seasonal Associate, Heike Geissler
+- The Complete Stories, Flannery O'Connor
+### 2024 and before
+- The Master and Margarita, Mikhail Bulgakov
+- The Sound of Waves, Yukio Mishima
+- The Stranger, Albert Camus
+- The First Man, Albert Camus
+- The Good Soldier Svejk,Jaroslav Hašek
+- Homo Zapiens, Viktor Pelevin
+- Submission, Michel Houllebecq
 {{< /section >}}
 
 
 {{< section `Nonfiction` >}}
 ### theories?
-- capitalist realism, mark fisher
-- discounting the future: the ascendancy of a political technology
+- Capitalist Realism, Mark Fisher
+- Discounting the Future: the Ascendancy of a Political Technology, Liliana Doganova
 {{< /section >}}
 
 
