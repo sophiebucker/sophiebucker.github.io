@@ -10,14 +10,18 @@ title: "Library"
 - Djinns, Fatma Aydemir
 - Seasonal Associate, Heike Geissler
 - The Complete Stories, Flannery O'Connor
+- Labyrinths, Jorge Luis Borges
 ### 2024 and before
 - The Master and Margarita, Mikhail Bulgakov
 - The Sound of Waves, Yukio Mishima
 - The Stranger, Albert Camus
 - The First Man, Albert Camus
-- The Good Soldier Svejk,Jaroslav Hašek
+- The Good Soldier Svejk, Jaroslav Hašek
 - Homo Zapiens, Viktor Pelevin
 - Submission, Michel Houllebecq
+- Nausea, Jean-Paul Sartre
+- One Hundred Years of Solitude, Gabriel Garcia Marquez
+- Demian, Hermann Hesse
 {{< /section >}}
 
 
