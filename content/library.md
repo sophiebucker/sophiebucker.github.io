@@ -11,6 +11,9 @@ title: "Library"
 - Seasonal Associate, Heike Geissler
 - The Complete Stories, Flannery O'Connor
 - Labyrinths, Jorge Luis Borges
+- The Savage Detectives, Roberto Bolaño
+- Journey to the End of the Night, Louis-Ferdinand Céline
+- White Noise, Don Delillo
 ### 2024 and before
 - The Master and Margarita, Mikhail Bulgakov
 - The Sound of Waves, Yukio Mishima
