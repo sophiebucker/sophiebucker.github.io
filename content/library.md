@@ -33,6 +33,11 @@ title: "Library"
 
 
 {{< section `Nonfiction` >}}
+### mathematics
+- Real Mathematical Analysis, Charles Pugh
+- Understanding Analysis, Stephen Abbott
+- Nonlinear Dynamics and Chaos, Steven Strogatz
+- Linear Algebra Done Right, Sheldon Axler
 ### biology+
 - The Restless Cell: Continuum Theories of Living Matter, Christina Hueschen and Rob Phillips
 - Physical Biology of the Cell, Rob Phillips, Jane Kondev, Julie Theriot, Hernan G. Garcia
