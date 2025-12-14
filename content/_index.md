@@ -2,15 +2,16 @@
 title: "Home"
 ---
 
-hi! i'm sophie bucker. i study mathematics and economics at uc berkeley. i intend to pursue graduate studies in economics or applied mathematics.
+hi! i'm sophie bucker. i study mathematics and economics at uc berkeley. i intend to pursue graduate studies in economics or applied mathematics. i have done research on corruption within the brazilian justice system, trade integration and policy with geopolitical tension and climate risks, and in another life, i did modeling of viral strain evolution drawing from heavy-tailed distributions.  
 
-i maintain interests in biophysics and mathematical biology, glaciology and atmospheric science, emerging defense and dual use technologies, and agricultural and resource economics. i also blog sometimes--keep an eye out for posts starting mid december 2025. 
+i am originally from san francisco, and i have taught german for several years. 
 
 ![](/static/sunfish.gif)
 
-this site acts as a collection of various interests. you're welcome to look at my [linkedin](https://linkedin.com/in/sophie-bucker) and [library](/library).
+you're welcome to look at my [linkedin](https://linkedin.com/in/sophie-bucker) and [library](/library). i will also begin posting blogs in ~mid december 2025. stay tuned.
 
 check out some of my friends' sites: [jingyuan](https://jingyuanchenxyz.github.io), [alexander](https://anyue.wang)
 
-email me at sbbucker at berkeley dot edu :3
+
+email me at sbbucker at berkeley dot edu
 
