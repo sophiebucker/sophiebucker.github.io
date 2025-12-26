@@ -8,10 +8,11 @@ i am originally from san francisco, and i have taught german for several years.
 
 ![](/static/sunfish.gif)
 
-you're welcome to look at my [linkedin](https://linkedin.com/in/sophie-bucker) and [library](/library). i will also begin posting blogs in ~mid december 2025. stay tuned.
+you're welcome to look at my [linkedin](https://linkedin.com/in/sophie-bucker), [library](/library), and new [blog](/blogs).
 
 check out some of my friends' sites: [jingyuan](https://jingyuanchenxyz.github.io), [alexander](https://anyue.wang)
 
 
 email me at sbbucker at berkeley dot edu
+
 
