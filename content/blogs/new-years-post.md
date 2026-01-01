@@ -1,3 +1,4 @@
+---
 title: "New Year's Post"
 date: 2025-12-26
 summary: "goals and reflections"
