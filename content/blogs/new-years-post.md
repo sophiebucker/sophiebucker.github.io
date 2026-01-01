@@ -1,6 +1,6 @@
 ---
 title: "New Year's Post"
-date: 2025-12-26
+date: 2025-12-31
 summary: "goals and reflections"
 --- 
 
