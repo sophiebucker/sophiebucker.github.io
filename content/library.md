@@ -3,6 +3,8 @@ title: "Library"
 ---
 
 {{< section `Fiction` >}}
+### 2026
+- The Stronghold, Dino Buzzati
 ### 2025
 - Lucy, Jamaica Kincaid
 - I Am the Brother of XX, Fleur Jaeggy
@@ -18,6 +20,7 @@ title: "Library"
 - Speedboat, Renata Adler
 - Invitation to a Beheading, Vladimir Nabokov
 - The Sailor from Gibraltar, Marguerite Duras
+- The Baron in the Trees, Italo Calvino
 ### 2024 and before
 - The Master and Margarita, Mikhail Bulgakov
 - The Sound of Waves, Yukio Mishima
@@ -36,15 +39,17 @@ title: "Library"
 ### mathematics
 - Real Mathematical Analysis, Charles Pugh
 - Understanding Analysis, Stephen Abbott
+- How To Think About Analysis, Lara Alcock
 - Nonlinear Dynamics and Chaos, Steven Strogatz
 - Linear Algebra Done Right, Sheldon Axler
 ### biology+
 - The Restless Cell: Continuum Theories of Living Matter, Christina Hueschen and Rob Phillips
 - Physical Biology of the Cell, Rob Phillips, Jane Kondev, Julie Theriot, Hernan G. Garcia
 - Evolutionary Dynamics: Exploring the Equations of Life, Martin Nowak
-### theories?
+### Other
 - Capitalist Realism, Mark Fisher
 - Discounting the Future: the Ascendancy of a Political Technology, Liliana Doganova
+- Crude Capitalism: Oil, Corporate Power, and the Making of the World Market, Adam Hanieh
 {{< /section >}}
 
 
