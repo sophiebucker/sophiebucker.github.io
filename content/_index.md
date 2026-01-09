@@ -2,17 +2,19 @@
 title: "Home"
 ---
 
-hi! i'm sophie bucker. i study mathematics and economics at uc berkeley. i intend to pursue graduate studies in economics or applied mathematics. i have done research on corruption within the brazilian justice system, trade integration and policy with geopolitical tension and climate risks, and in another life, i did modeling of viral strain evolution drawing from heavy-tailed distributions.  
+Hi! I'm Sophie Bucker. I study mathematics and economics at Berkeley. I intend to pursue graduate studies in economics or applied mathematics.
 
-i am originally from san francisco, and i have taught german for several years. 
+I have research experience in trade, environmental, and political economics, as well as biophysics. Outside of uni, I teach German at a Samstagschule. 
 
 ![](/static/sunfish.gif)
 
-you're welcome to look at my [linkedin](https://linkedin.com/in/sophie-bucker), [library](/library), and new [blog](/blogs).
+You're welcome to look at my [linkedin](https://linkedin.com/in/sophie-bucker), [library](/library), and new [blog](/blogs).
 
-check out some of my friends' sites: [jingyuan](https://jingyuanchenxyz.github.io), [alexander](https://anyue.wang)
+Check out some of my friends' sites: [jingyuan](https://jingyuanchenxyz.github.io), [alexander](https://anyue.wang)
+
+And my incoming [kombucha reviews](/kombucha).
 
 
-email me at sbbucker at berkeley dot edu
+email me at sbbucker at berkeley polka __? edu
 
 
