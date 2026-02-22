@@ -2,9 +2,9 @@
 title: "Home"
 ---
 
-Hi! I'm Sophie Bucker. I study mathematics and economics at Berkeley. I am interested in biosecurity, mathematical biology,  
+Hi! I'm Sophie Bucker. I study mathematics and economics at Berkeley.  
 
-I have research experience in trade, environmental, and political economics, as well as in biophysics. Outside of uni, I teach German to a rambunctious group of third graders at a Samstagschule. 
+I have research experience in international trade, environmental economics, and political economics. Long ago, I was interested in biophysics and mathematical biology. Outside of uni, I teach German to a rambunctious group of third graders at a Samstagschule in San Francisco. 
 
 ![](/static/sunfish.gif)
 
