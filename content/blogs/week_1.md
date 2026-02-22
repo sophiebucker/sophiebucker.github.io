@@ -11,11 +11,11 @@ Finished:
 The Stronghold by Dino Buzzati
 
 Started:
-Hav, Jan Morris,
+Hav, Jan Morris;
 The Complete Stories of Leonora Carrington, Leonora Carrington
 
 Rereading/Picked up again:
-The Sailor from Gibraltar, Marguerite Duras
+The Sailor from Gibraltar, Marguerite Duras;
 Invitation to a Beheading, Vladimir Nabokov
 
 ### Essays
