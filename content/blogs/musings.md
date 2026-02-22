@@ -1,5 +1,5 @@
 ---
-title: "Sites I like"
+title: "Personal Musings"
 date: 2026-02-21
 summary: "thoughts on applying to so so so many places"
 ---

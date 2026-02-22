@@ -5,3 +5,6 @@ summary: "a collection of blogs, websites, and so forth i really like"
 ---
 
 I'm making this a post because these are not books, and hence do not belong in the library section of my site.
+### Websites 
+The Energy Institute at Haas has an amazing blog. READ IT NOW HERE: https://energyathaas.wordpress.com/
+
