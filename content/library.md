@@ -5,6 +5,7 @@ title: "Library"
 {{< section `Fiction` >}}
 ### 2026
 - The Stronghold, Dino Buzzati
+- The Complete Stories, Leonora Carrington
 ### 2025
 - Lucy, Jamaica Kincaid
 - I Am the Brother of XX, Fleur Jaeggy

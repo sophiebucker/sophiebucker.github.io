@@ -10,7 +10,7 @@ I have research experience in international trade, environmental economics, and 
 
 You're welcome to look at my [linkedin](https://linkedin.com/in/sophie-bucker), [library](/library), and new [blog](/blogs).
 
-Check out some of my friends' sites: [jingyuan](https://jingyuanchenxyz.github.io), [alexander](https://anyue.wang), 
+Check out some of my friends' sites: [jingyuan](https://jingyuanchenxyz.github.io), [alexander](https://anyue.wang) 
 
 And my incoming [kombucha reviews](/kombucha).
 
