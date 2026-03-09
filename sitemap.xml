@@ -2,22 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ianloam.xyz/notes/mathfoundations/</loc>
+    <loc>https://sophiebucker.com/</loc>
+    <lastmod>2026-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ianloam.xyz/notes/paradigms/</loc>
+    <loc>https://sophiebucker.com/kombucha/</loc>
+    <lastmod>2026-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ianloam.xyz/notes/autodidact/</loc>
+    <loc>https://sophiebucker.com/kombucha/pinot_sage/</loc>
+    <lastmod>2026-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ianloam.xyz/categories/</loc>
+    <loc>https://sophiebucker.com/blogs/</loc>
+    <lastmod>2026-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ianloam.xyz/</loc>
+    <loc>https://sophiebucker.com/blogs/musings/</loc>
+    <lastmod>2026-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ianloam.xyz/library/</loc>
+    <loc>https://sophiebucker.com/blogs/dsge_for_dummies/</loc>
+    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ianloam.xyz/notes/</loc>
+    <loc>https://sophiebucker.com/blogs/sites_i_like/</loc>
+    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ianloam.xyz/notes/algebra/</loc>
+    <loc>https://sophiebucker.com/blogs/week_1/</loc>
+    <lastmod>2026-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ianloam.xyz/tags/</loc>
+    <loc>https://sophiebucker.com/blogs/new-years-post/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sophiebucker.com/blogs/launching-the-blog/</loc>
+    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sophiebucker.com/notes/mathfoundations/</loc>
+  </url><url>
+    <loc>https://sophiebucker.com/notes/paradigms/</loc>
+  </url><url>
+    <loc>https://sophiebucker.com/notes/autodidact/</loc>
+  </url><url>
+    <loc>https://sophiebucker.com/categories/</loc>
+  </url><url>
+    <loc>https://sophiebucker.com/library/</loc>
+  </url><url>
+    <loc>https://sophiebucker.com/notes/</loc>
+  </url><url>
+    <loc>https://sophiebucker.com/notes/algebra/</loc>
+  </url><url>
+    <loc>https://sophiebucker.com/tags/</loc>
   </url>
 </urlset>
