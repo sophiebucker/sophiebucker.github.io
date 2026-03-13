@@ -4,7 +4,8 @@ title: "Home"
 
 Hi! I'm Sophie. I study pure mathematics and economics at the University of California, Berkeley.  
 
-I enjoy doing research in international trade, and currently I am working on projects on food security and global shipping networks under climate shocks and geopolitical risks. I maintain a broad interest in macroeconomics (and macroeconomic development), economic geography, and energy and environmental economics. 
+I enjoy doing research in international trade, and currently I am working on projects on food security and global shipping networks under climate shocks and geopolitical risks. I maintain a broad interest in macroeconomics (and macroeconomic development), economic geography, and energy and environmental economics.
+
 
 I also like to read about biophysics and mathematical biology. Outside of university, I teach German to a rambunctious group of third graders at a Samstagschule in San Francisco. 
 
