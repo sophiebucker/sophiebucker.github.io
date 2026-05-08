@@ -19,4 +19,4 @@ And my work-in-progress [kombucha reviews](/kombucha).
 
 email me at sbbucker at berkeley polka __? edu
 
-
+/Users/sophiebucker/Downloads/sophiebucker.github.io-main/content/_index.md
