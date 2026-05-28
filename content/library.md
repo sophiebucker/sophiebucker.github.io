@@ -36,21 +36,14 @@ title: "Library"
 {{< /section >}}
 
 
-{{< section `Nonfiction` >}}
-### mathematics
-- Real Mathematical Analysis, Charles Pugh
-- Understanding Analysis, Stephen Abbott
-- How To Think About Analysis, Lara Alcock
-- Nonlinear Dynamics and Chaos, Steven Strogatz
-- Linear Algebra Done Right, Sheldon Axler
-### biology+
-- The Restless Cell: Continuum Theories of Living Matter, Christina Hueschen and Rob Phillips
-- Physical Biology of the Cell, Rob Phillips, Jane Kondev, Julie Theriot, Hernan G. Garcia
-- Evolutionary Dynamics: Exploring the Equations of Life, Martin Nowak
-### Other
+{{< section `Other` >}}
+### Random
 - Capitalist Realism, Mark Fisher
 - Discounting the Future: the Ascendancy of a Political Technology, Liliana Doganova
 - Crude Capitalism: Oil, Corporate Power, and the Making of the World Market, Adam Hanieh
+- Dictee, Theresa Hak Kyung Cha
+- Seeing like a State, James C. Scott
+- The Rise and Decline of Nations, Mancur Olson
 {{< /section >}}
 
 

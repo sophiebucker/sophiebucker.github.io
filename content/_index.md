@@ -4,8 +4,7 @@ title: "Home"
 
 Hi! I'm Sophie. I study pure mathematics and economics at the University of California, Berkeley.  
 
- I am working on projects on food security and global shipping networks under climate shocks and geopolitical risks. I maintain a broad interest in trade, development, and spatial economics.
-
+ I am a research assistant at Harvard Kennedy, and have previously worked at the Energy Institute at Haas and Opportunity Lab at the Center for Effective Global Action. I like to think about international trade, macro-development, and industrial organization. I occasionally write on here.
 
 ![](/static/sunfish.gif)
 

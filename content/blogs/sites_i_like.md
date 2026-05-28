@@ -10,6 +10,10 @@ The Energy Institute at Haas has an amazing blog. I am totally not biased as som
 
 I am also a huge fan of https://voxdev.org for their incredible coverage of topics in development economics <3 
 
+More recently, I have also discovered https://epoch.ai/ (for ai coverage) and https://www.project-syndicate.org/ for excellent op-eds.
+
+### Side Interest in Mathematical Bio
+
 My wonderful resources for mathematical biology are as follows:
 David Tong: Lectures on Mathematical Biology -- https://www.damtp.cam.ac.uk/user/tong/mathbio.html
 
