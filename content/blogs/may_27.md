@@ -17,7 +17,7 @@ This was an interesting read as someone who doesn't really know much about compu
 
 ### Economic reading of the week? do I even say week?
 
-Lol i read so much econ stuff every week it's not even worth doing. But I really liked this [CEPR article](https://cepr.org/voxeu/columns/fed-communication-all-understood-few) on how Fed communications can keep inflation expectations anchored--and how central bankers must master communicating monetary policy to the broader public! In particular, economists have to drill it into folks that yes, inflation is going up, but also, the central bank is aware and reacting accordingly. 
+Lol i read so much econ stuff every week it's not even worth doing. But I really liked this [CEPR article](https://cepr.org/voxeu/columns/fed-communication-all-understood-few) on how Fed communications can keep inflation expectations anchored--and how central bankers must master communicating monetary policy to the broader public! In particular, economists have to drill it into folks that yes, inflation can rise, but also, the central bank is aware and reacting accordingly. 
 
 OK maybe next week will be better. 
 
