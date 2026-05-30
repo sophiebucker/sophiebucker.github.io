@@ -6,18 +6,37 @@
 	        <link rel="shortcut icon" href="/static/favicon.ico" />
 	        <link rel="preconnect" href="https://fonts.googleapis.com">
 	        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	        <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500&family=Glendower:wght@400&family=IBM+Plex+Sans:wght@400;500&family=IBM+Plex+Mono:wght@400&display=swap" rel="stylesheet">
+	        <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400&display=swap" rel="stylesheet">
 	        <style>
 		  html {overflow-y: scroll}
-	          :root {
-	            --font-body: "EB Garamond", Georgia, serif;
-	            --font-heading: "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif;
-	            --font-mono: "IBM Plex Mono", "SFMono-Regular", Menlo, monospace;
-	          }
+		          @font-face {
+		            font-family: "MaziusDisplay";
+		            src: url("/MaziusDisplay-Regular.woff2") format("woff2"),
+		                 url("/MaziusDisplay-Regular.woff") format("woff"),
+		                 url("/fonts/MaziusDisplay-Regular.otf") format("opentype");
+		            font-weight: 400;
+		            font-style: normal;
+		            font-display: swap;
+		          }
+		          @font-face {
+		            font-family: "MaziusDisplay";
+		            src: url("/MaziusDisplay-ExtraItalicBold.woff2") format("woff2"),
+		                 url("/MaziusDisplay-ExtraItalicBold.woff") format("woff"),
+		                 url("/fonts/MaziusDisplay-ExtraItalicBold.otf") format("opentype");
+		            font-weight: 700;
+		            font-style: italic;
+		            font-display: swap;
+		          }
+		          :root {
+		            --font-body: "MaziusDisplay", Georgia, serif;
+		            --font-heading: "MaziusDisplay", Georgia, serif;
+		            --font-mono: "MaziusDisplay", Georgia, serif;
+		            --font-nav: "MaziusDisplay", Georgia, serif;
+		          }
 	          body {max-width: 650px; min-height: 100% -10px; margin: 15px auto; padding: 0 10px; font-size: 18px; line-height: 1.5; font-family: var(--font-body); background-color: #fff; color: #333; border: 25px solid white;}
 
           nav, footer {text-indent: 30px}
-          a {color: #333; font-style: italic; text-decoration: underline dotted; display: inline}
+	          a {color: #333; font-style: normal; text-decoration: underline dotted; display: inline}
           a:hover {background-color: #222; color: #fff; text-decoration: none}
 	  span {white-space: nowrap}
 		  code {word-break: break-all; font-size: 12px; font-family: var(--font-mono)}
@@ -31,8 +50,9 @@
           ::selection {color: #fff; background-color: #222}
 	  hr {border-style: solid; border-color: #dedede}
 		  .header-link {font-size: 2em; display: inline-block; margin-right: 10px; text-decoration: none; font-style: normal; color: #000; font-weight: 500; line-height: 1.2; font-family: var(--font-heading)}
-		  .top-nav a {font-family: "Glendower", serif}
-	        </style>
+			  .top-nav {font-family: var(--font-nav); font-style: italic; font-weight: 700}
+			  .top-nav a {font-family: inherit; font-style: inherit; font-weight: inherit}
+		        </style>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-AMS_HTML"></script>
 	<script>
     MathJax.Hub.Config({
