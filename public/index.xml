@@ -2,95 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on SOPHIE BUCKER</title>
-    <link>https://sophiebucker.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on SOPHIE BUCKER</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://sophiebucker.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>dsge for dummies</title>
+      <link>http://localhost:1313/blogs/dsge_for_dummies/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/dsge_for_dummies/</guid>
+      <description>i went on a deep dive and had to write about it</description>
+    </item>
+    <item>
+      <title>Week Whatever of reading</title>
+      <link>http://localhost:1313/blogs/may_27/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/may_27/</guid>
+      <description>my bad for forgetting&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Birthday Post</title>
+      <link>http://localhost:1313/blogs/20/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/20/</guid>
+      <description>a most joyous occasion</description>
+    </item>
+    <item>
+      <title>gt pomelo pink lemomade</title>
+      <link>http://localhost:1313/kombucha/pomelo_pink_lemonade/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kombucha/pomelo_pink_lemonade/</guid>
+      <description>delicious, but not for the faint of heart</description>
+    </item>
     <item>
       <title>marin kombucha pinot sage</title>
-      <link>https://sophiebucker.com/kombucha/pinot_sage/</link>
+      <link>http://localhost:1313/kombucha/pinot_sage/</link>
       <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://sophiebucker.com/kombucha/pinot_sage/</guid>
+      <guid>http://localhost:1313/kombucha/pinot_sage/</guid>
       <description>this is my favorite kombucha of all time</description>
     </item>
     <item>
       <title>Personal Musings</title>
-      <link>https://sophiebucker.com/blogs/musings/</link>
+      <link>http://localhost:1313/notes/musings/</link>
       <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://sophiebucker.com/blogs/musings/</guid>
+      <guid>http://localhost:1313/notes/musings/</guid>
       <description>thoughts on applying to so so so many places</description>
     </item>
     <item>
-      <title>dsge for dummies</title>
-      <link>https://sophiebucker.com/blogs/dsge_for_dummies/</link>
-      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://sophiebucker.com/blogs/dsge_for_dummies/</guid>
-      <description>i went on a deep dive and had to write about it</description>
-    </item>
-    <item>
       <title>Sites I like</title>
-      <link>https://sophiebucker.com/blogs/sites_i_like/</link>
+      <link>http://localhost:1313/blogs/sites_i_like/</link>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://sophiebucker.com/blogs/sites_i_like/</guid>
+      <guid>http://localhost:1313/blogs/sites_i_like/</guid>
       <description>a collection of blogs, websites, and so forth i really like</description>
     </item>
     <item>
       <title>Week 1 of reading</title>
-      <link>https://sophiebucker.com/blogs/week_1/</link>
+      <link>http://localhost:1313/blogs/week_1/</link>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://sophiebucker.com/blogs/week_1/</guid>
+      <guid>http://localhost:1313/blogs/week_1/</guid>
       <description>still figuring it out</description>
     </item>
     <item>
       <title>New Year&#39;s Post</title>
-      <link>https://sophiebucker.com/blogs/new-years-post/</link>
+      <link>http://localhost:1313/blogs/new-years-post/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://sophiebucker.com/blogs/new-years-post/</guid>
+      <guid>http://localhost:1313/blogs/new-years-post/</guid>
       <description>goals and reflections</description>
     </item>
     <item>
       <title>Launching the blog</title>
-      <link>https://sophiebucker.com/blogs/launching-the-blog/</link>
+      <link>http://localhost:1313/blogs/launching-the-blog/</link>
       <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://sophiebucker.com/blogs/launching-the-blog/</guid>
+      <guid>http://localhost:1313/blogs/launching-the-blog/</guid>
       <description>Hello!</description>
     </item>
     <item>
       <title></title>
-      <link>https://sophiebucker.com/notes/mathfoundations/</link>
+      <link>http://localhost:1313/notes/mathfoundations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sophiebucker.com/notes/mathfoundations/</guid>
+      <guid>http://localhost:1313/notes/mathfoundations/</guid>
       <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://sophiebucker.com/notes/paradigms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sophiebucker.com/notes/paradigms/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Autodidacticism and Research</title>
-      <link>https://sophiebucker.com/notes/autodidact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sophiebucker.com/notes/autodidact/</guid>
-      <description>&lt;h1 id=&#34;autodidacticism-and-research&#34;&gt;Autodidacticism and Research&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Library</title>
-      <link>https://sophiebucker.com/library/</link>
+      <link>http://localhost:1313/library/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sophiebucker.com/library/</guid>
-      <description>&lt;h2&gt;Fiction&lt;/h2&gt;&#xA;&lt;section&gt;&#xA;&lt;h3 id=&#34;2026&#34;&gt;2026&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Stronghold, Dino Buzzati&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2025&#34;&gt;2025&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lucy, Jamaica Kincaid&lt;/li&gt;&#xA;&lt;li&gt;I Am the Brother of XX, Fleur Jaeggy&lt;/li&gt;&#xA;&lt;li&gt;The Woman in the Dunes, Kobo Abe&lt;/li&gt;&#xA;&lt;li&gt;Djinns, Fatma Aydemir&lt;/li&gt;&#xA;&lt;li&gt;Seasonal Associate, Heike Geissler&lt;/li&gt;&#xA;&lt;li&gt;The Complete Stories, Flannery O&amp;rsquo;Connor&lt;/li&gt;&#xA;&lt;li&gt;Labyrinths, Jorge Luis Borges&lt;/li&gt;&#xA;&lt;li&gt;The Savage Detectives, Roberto Bolaño&lt;/li&gt;&#xA;&lt;li&gt;Journey to the End of the Night, Louis-Ferdinand Céline&lt;/li&gt;&#xA;&lt;li&gt;White Noise, Don Delillo&lt;/li&gt;&#xA;&lt;li&gt;The Water Statues, Fleur Jaeggy&lt;/li&gt;&#xA;&lt;li&gt;Speedboat, Renata Adler&lt;/li&gt;&#xA;&lt;li&gt;Invitation to a Beheading, Vladimir Nabokov&lt;/li&gt;&#xA;&lt;li&gt;The Sailor from Gibraltar, Marguerite Duras&lt;/li&gt;&#xA;&lt;li&gt;The Baron in the Trees, Italo Calvino&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2024-and-before&#34;&gt;2024 and before&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Master and Margarita, Mikhail Bulgakov&lt;/li&gt;&#xA;&lt;li&gt;The Sound of Waves, Yukio Mishima&lt;/li&gt;&#xA;&lt;li&gt;The Stranger, Albert Camus&lt;/li&gt;&#xA;&lt;li&gt;The First Man, Albert Camus&lt;/li&gt;&#xA;&lt;li&gt;The Good Soldier Svejk, Jaroslav Hašek&lt;/li&gt;&#xA;&lt;li&gt;Homo Zapiens, Viktor Pelevin&lt;/li&gt;&#xA;&lt;li&gt;Submission, Michel Houllebecq&lt;/li&gt;&#xA;&lt;li&gt;Nausea, Jean-Paul Sartre&lt;/li&gt;&#xA;&lt;li&gt;One Hundred Years of Solitude, Gabriel Garcia Marquez&lt;/li&gt;&#xA;&lt;li&gt;Demian, Hermann Hesse&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;h2&gt;Nonfiction&lt;/h2&gt;&#xA;&lt;section&gt;&#xA;&lt;h3 id=&#34;mathematics&#34;&gt;mathematics&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Real Mathematical Analysis, Charles Pugh&lt;/li&gt;&#xA;&lt;li&gt;Understanding Analysis, Stephen Abbott&lt;/li&gt;&#xA;&lt;li&gt;How To Think About Analysis, Lara Alcock&lt;/li&gt;&#xA;&lt;li&gt;Nonlinear Dynamics and Chaos, Steven Strogatz&lt;/li&gt;&#xA;&lt;li&gt;Linear Algebra Done Right, Sheldon Axler&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;biology&#34;&gt;biology+&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Restless Cell: Continuum Theories of Living Matter, Christina Hueschen and Rob Phillips&lt;/li&gt;&#xA;&lt;li&gt;Physical Biology of the Cell, Rob Phillips, Jane Kondev, Julie Theriot, Hernan G. Garcia&lt;/li&gt;&#xA;&lt;li&gt;Evolutionary Dynamics: Exploring the Equations of Life, Martin Nowak&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Capitalist Realism, Mark Fisher&lt;/li&gt;&#xA;&lt;li&gt;Discounting the Future: the Ascendancy of a Political Technology, Liliana Doganova&lt;/li&gt;&#xA;&lt;li&gt;Crude Capitalism: Oil, Corporate Power, and the Making of the World Market, Adam Hanieh&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;/section&gt;</description>
-    </item>
-    <item>
-      <title>Notes on Algebra</title>
-      <link>https://sophiebucker.com/notes/algebra/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sophiebucker.com/notes/algebra/</guid>
-      <description>&lt;h1 id=&#34;notes-on-algebra&#34;&gt;Notes on Algebra&lt;/h1&gt;</description>
+      <guid>http://localhost:1313/library/</guid>
+      <description>&lt;h2&gt;Fiction&lt;/h2&gt;&#xA;&lt;section&gt;&#xA;&lt;h3 id=&#34;2026&#34;&gt;2026&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Stronghold, Dino Buzzati&lt;/li&gt;&#xA;&lt;li&gt;The Complete Stories, Leonora Carrington&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2025&#34;&gt;2025&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lucy, Jamaica Kincaid&lt;/li&gt;&#xA;&lt;li&gt;I Am the Brother of XX, Fleur Jaeggy&lt;/li&gt;&#xA;&lt;li&gt;The Woman in the Dunes, Kobo Abe&lt;/li&gt;&#xA;&lt;li&gt;Djinns, Fatma Aydemir&lt;/li&gt;&#xA;&lt;li&gt;Seasonal Associate, Heike Geissler&lt;/li&gt;&#xA;&lt;li&gt;The Complete Stories, Flannery O&amp;rsquo;Connor&lt;/li&gt;&#xA;&lt;li&gt;Labyrinths, Jorge Luis Borges&lt;/li&gt;&#xA;&lt;li&gt;The Savage Detectives, Roberto Bolaño&lt;/li&gt;&#xA;&lt;li&gt;Journey to the End of the Night, Louis-Ferdinand Céline&lt;/li&gt;&#xA;&lt;li&gt;White Noise, Don Delillo&lt;/li&gt;&#xA;&lt;li&gt;The Water Statues, Fleur Jaeggy&lt;/li&gt;&#xA;&lt;li&gt;Speedboat, Renata Adler&lt;/li&gt;&#xA;&lt;li&gt;Invitation to a Beheading, Vladimir Nabokov&lt;/li&gt;&#xA;&lt;li&gt;The Sailor from Gibraltar, Marguerite Duras&lt;/li&gt;&#xA;&lt;li&gt;The Baron in the Trees, Italo Calvino&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2024-and-before&#34;&gt;2024 and before&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Master and Margarita, Mikhail Bulgakov&lt;/li&gt;&#xA;&lt;li&gt;The Sound of Waves, Yukio Mishima&lt;/li&gt;&#xA;&lt;li&gt;The Stranger, Albert Camus&lt;/li&gt;&#xA;&lt;li&gt;The First Man, Albert Camus&lt;/li&gt;&#xA;&lt;li&gt;The Good Soldier Svejk, Jaroslav Hašek&lt;/li&gt;&#xA;&lt;li&gt;Homo Zapiens, Viktor Pelevin&lt;/li&gt;&#xA;&lt;li&gt;Submission, Michel Houllebecq&lt;/li&gt;&#xA;&lt;li&gt;Nausea, Jean-Paul Sartre&lt;/li&gt;&#xA;&lt;li&gt;One Hundred Years of Solitude, Gabriel Garcia Marquez&lt;/li&gt;&#xA;&lt;li&gt;Demian, Hermann Hesse&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;h2&gt;Other&lt;/h2&gt;&#xA;&lt;section&gt;&#xA;&lt;h3 id=&#34;random&#34;&gt;Random&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Capitalist Realism, Mark Fisher&lt;/li&gt;&#xA;&lt;li&gt;Discounting the Future: the Ascendancy of a Political Technology, Liliana Doganova&lt;/li&gt;&#xA;&lt;li&gt;Crude Capitalism: Oil, Corporate Power, and the Making of the World Market, Adam Hanieh&lt;/li&gt;&#xA;&lt;li&gt;Dictee, Theresa Hak Kyung Cha&lt;/li&gt;&#xA;&lt;li&gt;Seeing like a State, James C. Scott&lt;/li&gt;&#xA;&lt;li&gt;The Rise and Decline of Nations, Mancur Olson&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;/section&gt;</description>
     </item>
   </channel>
 </rss>
