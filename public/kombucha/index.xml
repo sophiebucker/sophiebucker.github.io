@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Kombucha on SOPHIE BUCKER</title>
-    <link>http://localhost:1313/kombucha/</link>
-    <description>Recent content in Kombucha on SOPHIE BUCKER</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 08 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/kombucha/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>gt pomelo pink lemomade</title>
-      <link>http://localhost:1313/kombucha/pomelo_pink_lemonade/</link>
-      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kombucha/pomelo_pink_lemonade/</guid>
-      <description>delicious, but not for the faint of heart</description>
-    </item>
-    <item>
-      <title>marin kombucha pinot sage</title>
-      <link>http://localhost:1313/kombucha/pinot_sage/</link>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kombucha/pinot_sage/</guid>
-      <description>this is my favorite kombucha of all time</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Kombucha on SOPHIE BUCKER</title>
+		<link>http://localhost:1313/kombucha/</link>
+		<description>Recent content in Kombucha on SOPHIE BUCKER</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 08 Mar 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/kombucha/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>gt pomelo pink lemomade</title>
+				<link>http://localhost:1313/kombucha/pomelo_pink_lemonade/</link>
+				<pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/kombucha/pomelo_pink_lemonade/</guid>
+				<description>delicious, but not for the faint of heart</description>
+			</item>
+			<item>
+				<title>marin kombucha pinot sage</title>
+				<link>http://localhost:1313/kombucha/pinot_sage/</link>
+				<pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/kombucha/pinot_sage/</guid>
+				<description>this is my favorite kombucha of all time</description>
+			</item>
+	</channel>
 </rss>

@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Notes on SOPHIE BUCKER</title>
-    <link>http://localhost:1313/notes/</link>
-    <description>Recent content in Notes on SOPHIE BUCKER</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 21 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Personal Musings</title>
-      <link>http://localhost:1313/notes/musings/</link>
-      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/musings/</guid>
-      <description>thoughts on applying to so so so many places</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/notes/mathfoundations/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/mathfoundations/</guid>
-      <description></description>
-    </item>
-  </channel>
+	<channel>
+		<title>Notes on SOPHIE BUCKER</title>
+		<link>http://localhost:1313/notes/</link>
+		<description>Recent content in Notes on SOPHIE BUCKER</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 21 Feb 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Personal Musings</title>
+				<link>http://localhost:1313/notes/musings/</link>
+				<pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/notes/musings/</guid>
+				<description>thoughts on applying to so so so many places</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/notes/mathfoundations/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/notes/mathfoundations/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

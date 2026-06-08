@@ -27,12 +27,36 @@
 		            font-style: italic;
 		            font-display: swap;
 		          }
-		          :root {
-		            --font-body: "MaziusDisplay", Georgia, serif;
-		            --font-heading: "MaziusDisplay", Georgia, serif;
-		            --font-mono: "MaziusDisplay", Georgia, serif;
-		            --font-nav: "MaziusDisplay", Georgia, serif;
-		          }
+					@font-face {
+						font-family: 'FluxischElse';
+						src: url('/fonts/FluxischElse-Regular.woff') format('woff'),
+								 url('/fonts/FluxischElse-Regular.otf') format('opentype');
+						font-weight: 400;
+						font-style: normal;
+						font-display: swap;
+					}
+					@font-face {
+						font-family: 'FluxischElse';
+						src: url('/fonts/FluxischElse-Bold.woff') format('woff'),
+								 url('/fonts/FluxischElse-Bold.otf') format('opentype');
+						font-weight: 700;
+						font-style: normal;
+						font-display: swap;
+					}
+					@font-face {
+						font-family: 'FluxischElse';
+						src: url('/fonts/FluxischElse-Light.woff') format('woff'),
+								 url('/fonts/FluxischElse-Light.otf') format('opentype');
+						font-weight: 300;
+						font-style: normal;
+						font-display: swap;
+					}
+									:root {
+										--font-body: 'FluxischElse', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+										--font-heading: 'FluxischElse', Georgia, serif;
+										--font-mono: 'FluxischElse', Georgia, serif;
+										--font-nav: 'FluxischElse', Georgia, serif;
+									}
 		          body {max-width: 650px; min-height: 100% -10px; margin: 15px auto; padding: 0 10px; font-size: 18px; line-height: 1.68; letter-spacing: 0.016em; font-family: var(--font-body); background-color: #fff; color: #333; border: 25px solid white;}
 
           nav, footer {text-indent: 30px}
@@ -49,9 +73,22 @@
 	  ul img {max-height: .8em; max-width: 1em; vertical-align: middle}
           ::selection {color: #fff; background-color: #222}
 	  hr {border-style: solid; border-color: #dedede}
-		  .header-link {font-size: 2em; display: inline-block; margin-right: 10px; text-decoration: none; font-style: normal; color: #000; font-weight: 500; line-height: 1.2; font-family: var(--font-heading)}
-				  .top-nav {font-family: var(--font-nav); font-style: italic; font-weight: 700; letter-spacing: 0.045em}
-			  .top-nav a {font-family: inherit; font-style: inherit; font-weight: inherit}
+		  .site-title {display: inline-flex; align-items: center; gap: 0.5rem;}
+		  .header-link {font-size: 1.75em; text-decoration: none; font-style: normal; color: #000; font-weight: 500; line-height: 1.2; font-family: var(--font-heading);}
+		  .header-motif {width: 2.3rem; height: auto; display: block;}
+		  .top-nav {display: flex; align-items: center; justify-content: space-between; gap: 1rem; width: 100%; font-family: var(--font-nav); font-style: italic; font-weight: 700; letter-spacing: 0.045em;}
+		  .top-nav .nav-links {display: flex; align-items: center; gap: 0.4rem;}
+		  .top-nav .nav-links a {font-size: 1.3rem;}
+		  .top-nav .nav-links a::before {content: '▪'; margin: 0 0.3rem; color: inherit;}
+		  .top-nav .nav-links a:first-child::before {margin-left: 0;}
+		  .top-nav a {font-family: inherit; font-style: inherit; font-weight: inherit}
+		  @media screen and (max-width: 48rem) {
+		    .top-nav {flex-wrap: wrap; align-items: center; gap: 0.35rem;}
+		    .top-nav .nav-links {flex-direction: row; align-items: center; gap: 0.5rem;}
+		    .top-nav .nav-links a {font-size: 0.9rem;}
+		    .top-nav .nav-links a + a::before {content: '▪'; margin: 0 0.3rem;}
+		    .top-nav .site-title {flex-shrink: 0;}
+		  }
 		        </style>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-AMS_HTML"></script>
 	<script>
@@ -65,9 +102,7 @@
 
     </head>
     <body>
-	      <nav class="top-nav"><a href="/" class="header-link">Sophie Bucker</a> ▪ <a href="/blogs">Blog</a> ▪ <a href="/library">Library</a> ▪ <a href="https://linkedin.com/in/sophie-bucker">Linkedin</a></nav>
-	    <hr>
-	<main>
+	      <nav class="top-nav"><span class="site-title"><img src="/rotated_ginkgo.png" alt="Ginkgo motif" class="header-motif"><a href="/" class="header-link">Sophie Bucker</a></span><span class="nav-links"><a href="/blogs">Blog</a><a href="/library">Library</a><a href="https://linkedin.com/in/sophie-bucker">Linkedin</a></span></nav>
 
 <article>
   <h1>Launching the blog</h1>
