@@ -12,6 +12,8 @@ I am also a huge fan of https://voxdev.org for their incredible coverage of topi
 
 More recently, I have also discovered https://epoch.ai/ (for ai coverage) and https://www.project-syndicate.org/ for excellent op-eds.
 
+I also quite like this as a list of research ideas regarding AI and society: https://www.markusanderljung.com/blog/a-collection-of-ai-governance-research-ideas-2024
+
 ### Side Interest in Mathematical Bio
 
 My wonderful resources for mathematical biology are as follows:
