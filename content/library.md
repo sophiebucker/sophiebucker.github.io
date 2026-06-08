@@ -44,6 +44,9 @@ title: "Library"
 - Dictee, Theresa Hak Kyung Cha
 - Seeing like a State, James C. Scott
 - The Rise and Decline of Nations, Mancur Olson
+
+  ### Autofiction / Essays
+- Dictee, Theresa Hak Kyung Cha
 {{< /section >}}
 
 
