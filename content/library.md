@@ -6,6 +6,7 @@ title: "Library"
 ### 2026
 - The Stronghold, Dino Buzzati
 - The Complete Stories, Leonora Carrington
+
 ### 2025
 - Lucy, Jamaica Kincaid
 - I Am the Brother of XX, Fleur Jaeggy
@@ -37,13 +38,19 @@ title: "Library"
 
 
 {{< section `Other` >}}
-### Random
+### Social Sciences
 - Capitalist Realism, Mark Fisher
 - Discounting the Future: the Ascendancy of a Political Technology, Liliana Doganova
 - Crude Capitalism: Oil, Corporate Power, and the Making of the World Market, Adam Hanieh
-- Dictee, Theresa Hak Kyung Cha
 - Seeing like a State, James C. Scott
 - The Rise and Decline of Nations, Mancur Olson
+
+### Autofiction / Essays
+- Dictee, Theresa Hak Kyung Cha
+- Slow Days, Fast Company: The World, the Flesh, and L.A., Eve Babitz
+- Eve's Hollywood, Eve Babitz
+- The White Album, Joan Didion
+
 {{< /section >}}
 
 
