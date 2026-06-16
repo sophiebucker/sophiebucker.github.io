@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 07 Jun 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Halfway Mark for a Cultural Capitalist</title>
+				<link>http://localhost:1313/blogs/halfway_berkeley/</link>
+				<pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blogs/halfway_berkeley/</guid>
+				<description>Or more aptly my reflections on attending a certain university</description>
+			</item>
 			<item>
 				<title>in-progress thoughts about the two san franciscos i inhabit</title>
 				<link>http://localhost:1313/blogs/collected_thoughts/</link>
