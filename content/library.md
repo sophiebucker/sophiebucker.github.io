@@ -23,6 +23,7 @@ title: "Library"
 - Invitation to a Beheading, Vladimir Nabokov
 - The Sailor from Gibraltar, Marguerite Duras
 - The Baron in the Trees, Italo Calvino
+
 ### 2024 and before
 - The Master and Margarita, Mikhail Bulgakov
 - The Sound of Waves, Yukio Mishima
